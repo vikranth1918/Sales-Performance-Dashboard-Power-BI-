@@ -17,5 +17,22 @@ The dashboard was designed for executives, store managers, and operational staff
 ## 📈 Research Questions
 1. Is the **city of purchase** related to the average ticket size?  
 2. Is the **product line** purchased related to the average ticket size?  
-3. Is the **customer rating / satisfaction** related to the average ticket size?  
+3. Is the **customer rating / satisfaction** related to the average ticket size?
+
+
+## 🚀 Key Insights
+- **City Impact:** Customers from Guadalajara, Monterrey, and Mexico DF show different average ticket behaviors.  
+- **Product Line Impact:** Categories like *Food & Beverages* and *Sports & Travel* contribute significantly to revenue.  
+- **Customer Satisfaction:** Higher ratings correlate with increased spending.  
+
+## 📌 Outcomes
+- Reduced manual reporting efforts for store managers and executives.  
+- Enabled clear identification of **top-performing products** and **underperforming regions**.  
+- Provided a foundation for future **data-driven sales strategies**.  
+
+---
+
+👨‍💻 **Author:** Vikranth Motapalkula  
+🔗 Feel free to connect with me on [LinkedIn](linkedin.com/in/vikranth-motapalkula)  
+
 
