@@ -19,7 +19,7 @@ The dashboard was designed for executives, store managers, and operational staff
 2. Is the **product line** purchased related to the average ticket size?  
 3. Is the **customer rating / satisfaction** related to the average ticket size?
 
-## 🖼️ Dashboard Preview 
+## 🖼️ Dashboard Preview  
 ![Dashboard Overview](https://github.com/vikranth1918/Sales-Performance-Dashboard-Power-BI-/blob/main/Vikranth's%20Analysis.png)  
 
 
