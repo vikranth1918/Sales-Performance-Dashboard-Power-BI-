@@ -1,7 +1,7 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
 ## 📌 Project Overview
-This project focuses on analyzing sales data to understand the key factors influencing the **average customer ticket size**.  
+This project focuses on analyzing **sales data** to understand the key factors influencing the **average customer ticket size**.  
 The dashboard was designed for executives, store managers, and operational staff to enable **data-driven decision-making**.  
 
 ## 🎯 Key Objectives
@@ -19,9 +19,3 @@ The dashboard was designed for executives, store managers, and operational staff
 2. Is the **product line** purchased related to the average ticket size?  
 3. Is the **customer rating / satisfaction** related to the average ticket size?  
 
-## 🖼️ Dashboard Preview
-(Add your screenshots here from `Dashboard_Screenshots/`)  
-Example:  
-![Dashboard Overview]()  
-
-## 📂 Repository Structure
