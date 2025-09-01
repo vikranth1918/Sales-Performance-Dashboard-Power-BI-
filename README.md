@@ -24,9 +24,12 @@ The dashboard was designed for executives, store managers, and operational staff
 
 
 ## 🚀 Key Insights
-- **City Impact:** Customers from Guadalajara, Monterrey, and Mexico DF show different average ticket behaviors.  
-- **Product Line Impact:** Categories like *Food & Beverages* and *Sports & Travel* contribute significantly to revenue.  
-- **Customer Satisfaction:** Higher ratings correlate with increased spending.  
+- **City Impact:** The bar chart clearly shows that Guadalajara has the highest average sales ticket, followed by Monterrey, with Mexico DF having the lowest.
+The higher average ticket sales must be analyzed, decoded and the people must understand What the managers at Guadalajara are doing right and apply it to other cities. 
+- **Product Line Impact:** "Home and lifestyle" has the highest average ticket, the tree-map shows that "Fashion accessories" and "Food and beverages" are the biggest giver to total sales volume.
+To promote average sales, marketing campaigns can be done to highlight the "Home and lifestyle" products.  
+- **Customer Satisfaction:** The nearly flat trend line on the scatter plot clearly shows that there is no significant relationship between consumer rating and the average ticket.
+The plot proves that Price.Co cannot buy satisfaction of customers and it is almost unrelated to the price. It reinforces the fact that the company must investigate other factors other than price to improve the user satisfaction.
 
 ## 📌 Outcomes
 - Reduced manual reporting efforts for store managers and executives.  
