@@ -33,6 +33,6 @@ The dashboard was designed for executives, store managers, and operational staff
 ---
 
 👨‍💻 **Author:** Vikranth Motapalkula  
-🔗 Feel free to connect with me on [LinkedIn](linkedin.com/in/vikranth-motapalkula)  
+🔗 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vikranth-motapalkula)  
 
 
